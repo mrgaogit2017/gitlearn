@@ -8,6 +8,6 @@ public class A1 {
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.name = name+"99";
     }
 }
