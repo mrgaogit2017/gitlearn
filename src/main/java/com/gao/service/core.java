@@ -10,6 +10,8 @@ public class core {
     }
 
     public String eatAndRun() {
+        System.out.println("99999");
+        System.out.println("888888888888888");
         return "123";
     }
 
