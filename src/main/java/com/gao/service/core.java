@@ -12,6 +12,8 @@ public class core {
     public String eatAndRun() {
         System.out.println("99999");
         System.out.println("888888888888888");
+
+        System.out.println("7777");
         return "123";
     }
 
