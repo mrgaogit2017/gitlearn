@@ -13,11 +13,15 @@ public class core {
         System.out.println("99999");
         System.out.println("888888888888888");
 
-        System.out.println("7777");
-
         System.out.println("666666666666");
+
+        System.out.println("55555");
         return "123";
     }
 
+
+    public void test() {
+        System.out.println("0000000000000000");
+    }
 
 }
