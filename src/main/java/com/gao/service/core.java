@@ -13,7 +13,8 @@ public class core {
         System.out.println("99999");
         System.out.println("888888888888888");
 
-        System.out.println("7777");
+        System.out.println("7567");
+        System.out.println("这是bugfix分支用来修复bug的代码");
         return "123";
     }
 
