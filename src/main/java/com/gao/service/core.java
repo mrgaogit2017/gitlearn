@@ -21,7 +21,7 @@ public class core {
 
 
     public void test() {
-        System.out.println("0000000000000000");
+        System.out.println("0000999911111111111000");
     }
 
 }
