@@ -6,6 +6,7 @@ package com.gao.service;
 public class core {
 
     public int add(int a, int b) {
+        int c = 99;
         return a + b;
     }
 
