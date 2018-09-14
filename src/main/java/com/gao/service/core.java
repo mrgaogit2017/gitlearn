@@ -11,14 +11,14 @@ public class core {
 
     public String eatAndRun() {
         System.out.println("99999");
-        System.out.println("8888qqqqqqqqqq88");
+        System.out.println("8888qqqqqqqqqq880000000000000");
 
         System.out.println("666000999900066");;
         return "123";
     }
 
     public void newTestnew() {
-        System.out.println("this come from newTest-New");
+        System.out.println("this come from newTest-New, hello shanghai");
     }
 
 
